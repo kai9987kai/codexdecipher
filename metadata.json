@@ -1,0 +1,5 @@
+{
+  "name": "Codex Decipher",
+  "description": "An AI-powered manuscript analysis tool specialized in decoding ancient texts, cryptic illustrations, and historical documents using the Gemini API.",
+  "requestFramePermissions": []
+}
